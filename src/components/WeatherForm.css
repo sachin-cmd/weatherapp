@@ -18,6 +18,7 @@
 .locationform__elements label {
   font-size: 1.2rem;
   margin-bottom: 5px;
+  color: black;
 }
 
 .locationform__elements input[type="text"] {
